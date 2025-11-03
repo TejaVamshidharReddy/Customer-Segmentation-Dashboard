@@ -1,0 +1,41 @@
+CustomerID,FirstName,LastName,Email,Age,Gender,Location,JoinDate,TransactionDate,Amount,ProductCategory
+1001,John,Smith,john.smith@email.com,35,Male,New York,2022-01-15,2024-10-28,150.50,Electronics
+1001,John,Smith,john.smith@email.com,35,Male,New York,2022-01-15,2024-09-12,89.99,Clothing
+1001,John,Smith,john.smith@email.com,35,Male,New York,2022-01-15,2024-08-05,210.00,Home & Garden
+1002,Sarah,Johnson,sarah.j@email.com,28,Female,Los Angeles,2023-03-22,2024-10-30,75.25,Beauty
+1002,Sarah,Johnson,sarah.j@email.com,28,Female,Los Angeles,2023-03-22,2024-10-15,120.00,Clothing
+1003,Michael,Davis,m.davis@email.com,42,Male,Chicago,2021-06-10,2024-10-25,450.00,Electronics
+1003,Michael,Davis,m.davis@email.com,42,Male,Chicago,2021-06-10,2024-09-30,95.50,Books
+1003,Michael,Davis,m.davis@email.com,42,Male,Chicago,2021-06-10,2024-08-20,180.75,Sports
+1003,Michael,Davis,m.davis@email.com,42,Male,Chicago,2021-06-10,2024-07-15,320.00,Electronics
+1004,Emily,Wilson,emily.w@email.com,31,Female,Houston,2023-08-05,2024-10-20,65.99,Beauty
+1004,Emily,Wilson,emily.w@email.com,31,Female,Houston,2023-08-05,2024-09-08,45.00,Health
+1005,David,Brown,d.brown@email.com,55,Male,Phoenix,2020-11-12,2024-06-15,200.00,Home & Garden
+1006,Jennifer,Lee,jennifer.lee@email.com,29,Female,Philadelphia,2024-09-01,2024-10-29,890.00,Electronics
+1006,Jennifer,Lee,jennifer.lee@email.com,29,Female,Philadelphia,2024-09-01,2024-10-10,150.00,Clothing
+1007,Robert,Martinez,r.martinez@email.com,38,Male,San Antonio,2022-05-20,2024-10-22,125.50,Sports
+1007,Robert,Martinez,r.martinez@email.com,38,Male,San Antonio,2022-05-20,2024-08-30,95.00,Clothing
+1007,Robert,Martinez,r.martinez@email.com,38,Male,San Antonio,2022-05-20,2024-07-12,180.00,Sports
+1008,Lisa,Anderson,lisa.a@email.com,45,Female,San Diego,2021-02-18,2024-10-18,55.00,Books
+1009,James,Taylor,j.taylor@email.com,33,Male,Dallas,2023-01-10,2024-03-15,320.00,Electronics
+1010,Mary,Thomas,mary.t@email.com,50,Female,San Jose,2022-07-25,2024-10-27,450.00,Home & Garden
+1010,Mary,Thomas,mary.t@email.com,50,Female,San Jose,2022-07-25,2024-09-20,125.00,Beauty
+1010,Mary,Thomas,mary.t@email.com,50,Female,San Jose,2022-07-25,2024-08-10,200.00,Clothing
+1011,Christopher,Moore,c.moore@email.com,27,Male,Austin,2024-10-01,2024-10-25,75.00,Books
+1012,Patricia,Jackson,p.jackson@email.com,52,Female,Jacksonville,2020-09-08,2024-10-24,350.00,Electronics
+1012,Patricia,Jackson,p.jackson@email.com,52,Female,Jacksonville,2020-09-08,2024-09-05,180.00,Home & Garden
+1012,Patricia,Jackson,p.jackson@email.com,52,Female,Jacksonville,2020-09-08,2024-08-15,95.50,Beauty
+1012,Patricia,Jackson,p.jackson@email.com,52,Female,Jacksonville,2020-09-08,2024-07-20,220.00,Clothing
+1013,Daniel,White,d.white@email.com,40,Male,Fort Worth,2021-12-05,2024-10-21,145.00,Sports
+1013,Daniel,White,d.white@email.com,40,Male,Fort Worth,2021-12-05,2024-09-18,89.99,Clothing
+1014,Linda,Harris,linda.h@email.com,36,Female,Columbus,2023-04-15,2024-10-19,520.00,Electronics
+1014,Linda,Harris,linda.h@email.com,36,Female,Columbus,2023-04-15,2024-08-22,160.00,Beauty
+1015,Matthew,Martin,m.martin@email.com,44,Male,Charlotte,2022-08-30,2024-10-16,95.00,Books
+1016,Nancy,Thompson,nancy.t@email.com,48,Female,Indianapolis,2021-05-12,2024-02-10,280.00,Home & Garden
+1017,Anthony,Garcia,a.garcia@email.com,32,Male,Seattle,2023-11-20,2024-10-28,650.00,Electronics
+1017,Anthony,Garcia,a.garcia@email.com,32,Male,Seattle,2023-11-20,2024-09-25,110.00,Clothing
+1018,Betty,Martinez,b.martinez@email.com,58,Female,Denver,2020-03-15,2024-10-14,75.50,Health
+1019,Mark,Robinson,m.robinson@email.com,39,Male,Washington,2022-10-08,2024-10-26,380.00,Electronics
+1019,Mark,Robinson,m.robinson@email.com,39,Male,Washington,2022-10-08,2024-09-12,145.00,Sports
+1020,Sandra,Clark,sandra.c@email.com,41,Female,Boston,2021-07-20,2024-10-23,200.00,Beauty
+1020,Sandra,Clark,sandra.c@email.com,41,Female,Boston,2021-07-20,2024-08-28,165.00,Clothing
